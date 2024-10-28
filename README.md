@@ -1,14 +1,13 @@
-<html>
-  <head>
-    
-  </head>
-  <body>
-  <table>
-    <tr>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
-    </tr>
-  </table>
-  </body>
-</html>
+<table><tr><td valign="top" width="33%">
+
+### Recent releases
+
+</td><td valign="top" width="34%">
+
+### On my blog
+
+</td><td valign="top" width="33%">
+
+### TIL
+
+</td></tr></table>
