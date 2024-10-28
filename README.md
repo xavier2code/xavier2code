@@ -16,6 +16,7 @@
 
 ### 📡 TIL
 <!-- tils starts -->
+- [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 
 <!-- tils ends -->
 
