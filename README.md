@@ -1,14 +1,23 @@
 <table><tr><td valign="top" width="33%">
 
-### Recent releases
+### ✈️ Recent releases
+<!-- recent_releases starts -->
+
+<!-- recent_releases ends -->
 
 </td><td valign="top" width="34%">
 
-### On my blog
+### ✏️ On my blog
+<!-- blog starts -->
+
+<!-- blog ends -->
 
 </td><td valign="top" width="33%">
 
-### TIL
+### 📡 TIL
+<!-- tils starts -->
+
+<!-- tils ends -->
 
 </td></tr></table>
 
