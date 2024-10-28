@@ -8,9 +8,8 @@
 </td><td valign="top" width="34%">
 
 ### ✏️ On my blog
-<!-- blog starts -->
-
-<!-- blog ends -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="33%">
 
