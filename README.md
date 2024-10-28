@@ -6,9 +6,8 @@
 <table width="100%"><tr width="100%"><td valign="top" width="33%">
 
 ### ✈️ Recent releases
-<!-- recent_releases starts -->
-
-<!-- recent_releases ends -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </td><td valign="top" width="34%">
 
