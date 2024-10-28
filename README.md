@@ -5,20 +5,25 @@
 
 <table width="100%"><tr width="100%"><td valign="top" width="33%">
 
-### ✈️ Recent releases
+<h3> ✈️ Recent releases </h3>
+
 <!--START_SECTION:activity-->
+- [irust project](https://github.com/xavier2code/irust)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="34%">
 
-### ✏️ On my blog
+<h3> ✏️ On my blog </h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [Ownership](https://dev.to/xavier2code/ownership-3o31)
 <!-- BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="33%">
 
-### 📡 TIL
+<h3> 📡 TIL </h3>
+
+
 <!-- tils starts -->
 - [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 
