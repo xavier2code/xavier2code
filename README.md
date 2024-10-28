@@ -9,6 +9,7 @@
 
 ### ✏️ On my blog
 <!-- BLOG-POST-LIST:START -->
+- [Ownership](https://dev.to/xavier2code/ownership-3o31)
 <!-- BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="33%">
