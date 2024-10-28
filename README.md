@@ -6,16 +6,16 @@
       <!-- START_SECTION:blog -->
 
       <!-- END_SECTION:blog -->
-    </td>
-    <td valign="top" width="34%">
+  </td>
+  <td valign="top" width="34%">
       ### Recent releases
       <!-- START_SECTION:release -->
       
       <!-- END_SECTION:release -->
-    </td>
-    <td valign="top" width="33%">
-    </td>
-  </tr>
+  </td>
+  <td valign="top" width="33%">
+  </td>
+</tr>
 </table>
 
 ### Waka time
