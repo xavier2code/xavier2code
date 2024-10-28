@@ -1,4 +1,4 @@
-<table><tr><td valign="top" width="33%">
+<table width="100%"><tr width="100%"><td valign="top" width="33%">
 
 ### ✈️ Recent releases
 <!-- recent_releases starts -->
