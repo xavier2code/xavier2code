@@ -22,9 +22,7 @@
 ### ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 : [Ownership](https://dev.to/xavier2code/ownership-3o31)
-
-<!-- BLOG-POST-LIST:END -->
+ - 💯 : [Ownership](https://dev.to/xavier2code/ownership-3o31)<!-- BLOG-POST-LIST:END -->
 
 ### ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 <!--START_SECTION:waka-->
