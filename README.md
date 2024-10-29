@@ -1,3 +1,14 @@
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust" />
+  </a>
+</p>
+
+###
+
+### 
 <!-- typing svg starts -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=perseverance+prevails)](https://git.io/typing-svg)
 <!-- typing svg ends -->
