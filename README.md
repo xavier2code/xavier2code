@@ -16,9 +16,9 @@
 ### ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/xavier2code/irust/pull/6) in [xavier2code/irust](https://github.com/xavier2code/irust)
-2. 💪 Opened PR [#6](https://github.com/xavier2code/irust/pull/6) in [xavier2code/irust](https://github.com/xavier2code/irust)
-3. 🎉 Merged PR [#5](https://github.com/xavier2code/irust/pull/5) in [xavier2code/irust](https://github.com/xavier2code/irust)
+1. 🎉 Merged PR [#7](https://github.com/xavier2code/irust/pull/7) in [xavier2code/irust](https://github.com/xavier2code/irust)
+2. 💪 Opened PR [#7](https://github.com/xavier2code/irust/pull/7) in [xavier2code/irust](https://github.com/xavier2code/irust)
+3. 🎉 Merged PR [#6](https://github.com/xavier2code/irust/pull/6) in [xavier2code/irust](https://github.com/xavier2code/irust)
 <!--END_SECTION:activity-->
 
 
