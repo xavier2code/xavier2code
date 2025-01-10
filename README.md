@@ -1,7 +1,9 @@
 <h2 align="center">👋 Hello! I'm Xavier.</h2>
 
 <!-- typing svg starts -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&color=F75D23&width=435&lines=Fear+is+temporary.+Regret+is+forever.)](https://git.io/typing-svg)
+<h2 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFFF0&width=435&lines=Fear+is+temporary.+Regret+is+forever." alt="Typing SVG" /></a>
+</h2>
 <!-- typing svg ends -->
 
 <!--START_SECTION:waka-->
