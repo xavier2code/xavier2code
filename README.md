@@ -1,16 +1,6 @@
-###
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust" />
-  </a>
-</p>
-
-###
-
 ### 
 <!-- typing svg starts -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=perseverance+prevails)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&color=F75D23&width=435&lines=Fear+is+temporary.+Regret+is+forever.)](https://git.io/typing-svg)
 <!-- typing svg ends -->
 
 ### ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
