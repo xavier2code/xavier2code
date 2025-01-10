@@ -1,10 +1,15 @@
 <h2 align="center">👋 Hello! I'm Xavier.</h2>
 
 <!-- typing svg starts -->
-<h2 align="center">
+<div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFFF0&width=435&lines=Fear+is+temporary.+Regret+is+forever." alt="Typing SVG" /></a>
-</h2>
+</div>
 <!-- typing svg ends -->
+
+<!-- jokes card -->
+<div align="center">
+ <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="Jokes Card" />
+</div>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
