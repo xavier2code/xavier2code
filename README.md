@@ -8,7 +8,7 @@
 
 <!-- jokes card -->
 <div align="center">
- <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="Jokes Card" />
+ <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 </div>
 
 <!--START_SECTION:waka-->
