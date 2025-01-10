@@ -1,3 +1,5 @@
+<h2 align="center">👋 Hello! I'm Xavier.</h2>
+
 ### 
 <!-- typing svg starts -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&color=F75D23&width=435&lines=Fear+is+temporary.+Regret+is+forever.)](https://git.io/typing-svg)
@@ -20,7 +22,7 @@
  - 💫 : [Daily.rust day 1](https://dev.to/xavier2code/dailyrust-day-1-445c)
  - 🚀 : [Ownership](https://dev.to/xavier2code/ownership-3o31)<!-- BLOG-POST-LIST:END -->
 
-### ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+### 
 <!--START_SECTION:waka-->
 
 ```txt
