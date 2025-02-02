@@ -12,7 +12,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -53,18 +53,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 min               ███████████████████░░░░░░   75.27 % 
-Rust                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   1 min               █████████████████████████   100.00 % 
+Obsidian                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog                     1 min               ███████████████████░░░░░░   75.27 % 
-tera                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+xavier's vault           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -81,5 +79,5 @@ Lua                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 18:39:09 UTC
+ Last Updated on 02/02/2025 18:41:04 UTC
 <!--END_SECTION:waka-->
