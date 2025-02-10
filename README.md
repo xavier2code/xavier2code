@@ -6,11 +6,6 @@
 </div>
 <!-- typing svg ends -->
 
-<!-- jokes card -->
-<div align="center">
- <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-</div>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2019%20mins-blue)
 
@@ -95,3 +90,8 @@ Lua                      1 repo              ████████░░░�
 
  Last Updated on 09/02/2025 18:39:45 UTC
 <!--END_SECTION:waka-->
+
+<!-- jokes card -->
+<div align="center">
+ <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+</div>
