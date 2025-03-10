@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,7 +82,7 @@ Lua                      1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2025 18:36:30 UTC
+ Last Updated on 10/03/2025 18:44:24 UTC
 <!--END_SECTION:waka-->
 
 <!-- jokes card -->
