@@ -15,8 +15,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 181 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -86,7 +84,7 @@ Lua                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2025 18:47:00 UTC
+ Last Updated on 19/03/2025 18:46:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- jokes card -->
