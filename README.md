@@ -7,9 +7,9 @@
 <!-- typing svg ends -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,7 +86,7 @@ Lua                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2025 13:45:05 UTC
+ Last Updated on 28/03/2025 18:48:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- jokes card -->
