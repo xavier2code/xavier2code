@@ -88,10 +88,3 @@ Lua                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 02/04/2025 18:47:15 UTC
 <!--END_SECTION:waka-->
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=xavier2code&theme=dark)
-
-<!-- jokes card -->
-<div align="center">
- <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-</div>
