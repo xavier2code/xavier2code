@@ -10,8 +10,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xavier2code&show_icons=true&theme=radical" width="45%" /><img src="https://leetcode-stats.vercel.app/api?username=xavier2code&theme=dark" width="50%" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2059%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -66,5 +64,5 @@ Lua                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 20/05/2025 18:49:56 UTC
+ Last Updated on 21/05/2025 18:49:58 UTC
 <!--END_SECTION:waka-->
