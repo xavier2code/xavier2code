@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xavier2code&show_icons=true&theme=radical" width="45%" /><img src="https://leetcode-stats.vercel.app/api?username=xavier2code&theme=dark" width="50%" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,16 +41,17 @@ Sunday                   0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   78.70 % 
+Other                    0 secs              ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -64,5 +65,5 @@ Python                   1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 
 
 
- Last Updated on 09/10/2025 18:47:42 UTC
+ Last Updated on 10/10/2025 18:47:00 UTC
 <!--END_SECTION:waka-->
