@@ -10,8 +10,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xavier2code&show_icons=true&theme=radical" width="45%" /><img src="https://leetcode-stats.vercel.app/api?username=xavier2code&theme=dark" width="50%" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2044%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I Mostly Code in HTML** 
@@ -25,5 +23,5 @@ Python                   1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 
 
 
- Last Updated on 15/11/2025 18:45:16 UTC
+ Last Updated on 16/11/2025 18:46:13 UTC
 <!--END_SECTION:waka-->
