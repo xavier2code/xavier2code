@@ -6,9 +6,6 @@
 </div>
 <!-- typing svg ends -->
 
-<!-- Other cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=xavier2code&show_icons=true&theme=radical" width="45%" /><img src="https://leetcode-stats.vercel.app/api?username=xavier2code&theme=dark" width="50%" />
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2015%20mins-blue)
 
