@@ -49,14 +49,6 @@
 
 ---
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xavier2code&theme=github-dark&bg_color=0d1117&color=00D9FF&line=58A6FF&point=FF6B6B&area=true&hide_border=false" alt="Activity Graph" />
-</p>
-
----
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2030%20mins-blue?style=flat)
 
