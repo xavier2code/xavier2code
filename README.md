@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Actions-0175E2?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://badges.pufler.dev/visits/xavier2code?style=for-the-badge&color=00D9FF" />
-  <img src="https://badges.pufler.dev/stars/xavier2code/xavier2code?style=for-the-badge&color=FF6B6B" />
 </p>
 
 ---
