@@ -85,18 +85,6 @@
   </a>
 </p>
 
-### 🔧 Healix — Automated Self-Healing Software System
-
-> Monitors application logs → Detects exceptions → Locates problematic code → Generates fixes → Commits patches automatically
-
-A complete closed-loop system from error detection to code repair **without human intervention**.
-
-### 🧠 Next Mind — AI Agent Framework
-
-> Similar to OpenClaw — an AI agent that plans, reasons, and acts autonomously to accomplish complex tasks
-
-Building intelligent agents that can think and execute **without continuous human guidance**.
-
 ---
 
 ## 💬 About Me
