@@ -1,67 +1,69 @@
-<h2 align="center">👋 Hello! I'm Xavier.</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&width=320&lines=Fear+is+temporary.%0ARegret+is+forever." alt="Typing SVG" />
+</h1>
 
-<!-- typing svg starts -->
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFFF0&width=435&lines=Fear+is+temporary.+Regret+is+forever." alt="Typing SVG" /></a>
-</div>
-<!-- typing svg ends -->
+---
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2027%20mins-blue?style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Shanghai-1a1a2e?style=flat&logo=location&logoColor=00FF88&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/Code_Time-446h_27m-1a1a2e?style=flat&color=00FF88" />
+  <img src="https://img.shields.io/badge/Languages-Python|Java|TS|Lua-1a1a2e?style=flat&color=00FF88" />
+</p>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+---
 
-**I'm an Early 🐤** 
+## ~/skills
 
-```text
-🌞 Morning                89 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.95 % 
-🌆 Daytime                105 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.03 % 
-🌃 Evening                4 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.02 % 
-🌙 Night                  0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 ```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   49 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.75 % 
-Tuesday                  47 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.74 % 
-Wednesday                38 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.19 % 
-Thursday                 17 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.59 % 
-Friday                   42 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.21 % 
-Saturday                 5 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.53 % 
-Sunday                   0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+Languages    ████████████████████  Python  ████████████████████  Java
+             ████████████████████  TypeScript                    ██████████  Lua
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+```
+Frameworks   ░░░░░░░░░░░░░░░░░░░░  (learning)
+Tools        ████████████████████  Neovim  ████████████████████  Git
+             ████████████████████  Linux   ████████████░░░░░░░░░  Docker
 ```
 
-**I Mostly Code in Python** 
+---
 
-```text
-Python                   2 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.33 % 
-Java                     1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.67 % 
-TypeScript               1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.67 % 
-HTML                     1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.67 % 
-Lua                      1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.67 % 
+## ~/status
+
+```
+$ whoami
+xavier — developer, shanghai
+
+$ uptime
+447 hours coded this year
 ```
 
+**Activity Heatmap**
+```
+Morning    ████████████████████░░  44.95%
+Daytime    ██████████████████████  53.03%
+Evening    ██░░░░░░░░░░░░░░░░░░░░  02.02%
+Night      ░░░░░░░░░░░░░░░░░░░░░░  00.00%
+```
 
+**Top Days**
+```
+Monday ████████████████░░░  Tuesday ███████████████░░░  Wednesday ████████████░░
+```
 
+---
 
- Last Updated on 08/01/2026 18:53:34 UTC
-<!--END_SECTION:waka-->
+## ~/connect
+
+```
+GitHub  ▸ github.com/xavier2code
+```
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with-Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
+</p>
+
+---
+
+*Last updated: 2026-03-24*
