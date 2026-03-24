@@ -23,5 +23,7 @@ jobs:
           SHOW_TIME: true
           SHOW_EDITORS: true
           SHOW_OS: true
-          SHOW_METADATA: true
+          SHOW_METADATA: false
+          SHOW_SHORT_INFO: false
+          SHOW_PROFILE_VIEWS: false
           COMMIT_MESSAGE: "Update WakaTime stats"
