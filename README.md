@@ -69,7 +69,7 @@
 
 ```text
 🧑‍💻  Developer passionate about building clean, efficient solutions
-📍  Based in Wuhan, China (UTC+8)
+📍  Based in Wuhan, China (UTC +08:00)
 📚  Always learning something new
 🔥  "Fear is temporary. Regret is forever."
 ```
