@@ -3,23 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-2E7D32?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Milvus-00D9FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-FF6B6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/GLM-5B7B9A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MiniMax-00D9FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-7955F1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCode-00D9FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Actions-0175E2?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ---
