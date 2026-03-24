@@ -1,6 +1,4 @@
-# Hi, I'm Xavier
-
-### AI Agent Engineer | Wuhan
+# Hi, I'm Xavier — AI Agent Engineer | Wuhan
 
 ---
 

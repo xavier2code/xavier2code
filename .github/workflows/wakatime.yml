@@ -18,10 +18,4 @@ jobs:
           SHOW_TITLE: true
           LANG_COUNT: 10
           SHOW_TIME: true
-          SHOW_LANGUAGE: true
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-          SHOW_DATABASE: true
-          SHOW_METADATA: true
           COMMIT_MESSAGE: "Update WakaTime stats"
