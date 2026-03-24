@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&width=450&lines=Fear+is+temporary.+Regret+is+forever." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/xavier2code?style=for-the-badge&color=00D9FF" />
-  <img src="https://badges.pufler.dev/stars/xavier2code/xavier2code?style=for-the-badge&color=FF6B6B" />
-  <img src="https://badges.pufler.dev/followers/xavier2code?style=for-the-badge&color=58A6FF" />
-  <img src="https://badges.pufler.dev/contributions/xavier2code/xavier2code?style=for-the-badge&color=FFD700" />
-</p>
-
 ---
 
 <!--START_SECTION:waka-->
