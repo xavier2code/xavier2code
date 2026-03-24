@@ -71,6 +71,15 @@
   <a href="https://github.com/xavier2code/healix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavier2code&repo=healix&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00D9FF&icon_color=58A6FF&text_color=c9d1d9" />
   </a>
+  <a href="https://github.com/xavier2code/next-mind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavier2code&repo=next-mind&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00D9FF&icon_color=58A6FF&text_color=c9d1d9" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/xavier2code/blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavier2code&repo=blog&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00D9FF&icon_color=58A6FF&text_color=c9d1d9" />
+  </a>
   <a href="https://github.com/xavier2code/xavier2code">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavier2code&repo=xavier2code&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00D9FF&icon_color=58A6FF&text_color=c9d1d9" />
   </a>
@@ -81,6 +90,18 @@
 > Monitors application logs → Detects exceptions → Locates problematic code → Generates fixes → Commits patches automatically
 
 A complete closed-loop system from error detection to code repair **without human intervention**.
+
+### 🧠 Next Mind — AI Agent Framework
+
+> Similar to OpenClaw — an AI agent that plans, reasons, and acts autonomously to accomplish complex tasks
+
+Building intelligent agents that can think and execute **without continuous human guidance**.
+
+### 📝 Blog — Personal Blog
+
+> Thoughts on development, technology, and everything in between
+
+Writing about what I learn, built, and explored.
 
 ---
 
