@@ -47,6 +47,9 @@
   <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-2E7D32?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Milvus-00D9FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLM-5B7B9A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MiniMax-00D9FF?style=for-the-badge&logoColor=white" />
 </p>
 
 <h3 align="center">Tools</h3>
