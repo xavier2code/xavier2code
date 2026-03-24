@@ -65,6 +65,11 @@
 
 ---
 
+<!-- WAKATIME_START -->
+<!-- WAKATIME_END -->
+
+---
+
 ## 💬 About Me
 
 ```text
