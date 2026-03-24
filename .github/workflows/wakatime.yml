@@ -7,15 +7,20 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - uses: athul/waka-readme@master
+      - name: Fetch WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          LANG_COUNT: 10
+          SHOW_LINES: true
+          SHOW_LANGUAGE: true
+          SHOW_PROJECTS: true
           SHOW_TIME: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_METADATA: true
           COMMIT_MESSAGE: "Update WakaTime stats"
