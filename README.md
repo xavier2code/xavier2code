@@ -66,6 +66,17 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 March 2026 - To: 23 March 2026
+
+Other        4 hrs 46 mins         ██████████████▒░░░░░░░░░░   57.27 %
+Markdown     2 hrs 3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.60 %
+TypeScript   1 hr 20 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+JSON         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Lua          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
