@@ -1,5 +1,6 @@
-# Keep only README and AGENTS
+# Keep only README, AGENTS, and .github
 *
 !README.md
 !AGENTS.md
 !.gitignore
+!.github/
