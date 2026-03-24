@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Actions-0175E2?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://badges.pufler.dev/visits/xavier2code?style=for-the-badge&color=00D9FF" />
+  <img src="https://badges.pufler.dev/stars/xavier2code/xavier2code?style=for-the-badge&color=FF6B6B" />
+  <img src="https://badges.pufler.dev/followers/xavier2code?style=for-the-badge&color=58A6FF" />
+  <img src="https://badges.pufler.dev/contributions/xavier2code/xavier2code?style=for-the-badge&color=FFD700" />
 </p>
 
 ---
