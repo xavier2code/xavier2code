@@ -81,31 +81,6 @@ Lua          1 min                 ░░░░░░░░░░░░░░░
 
 ---
 
-## 💬 About Me
-
-```text
-🧑‍💻  Developer passionate about building clean, efficient solutions
-📍  Based in Wuhan, China (UTC +08:00)
-📚  Always learning something new
-🔥  "Fear is temporary. Regret is forever."
-```
-
----
-
-## 📫 Connect
-
-<p align="center">
-  <a href="https://github.com/xavier2code">
-    <img src="https://img.shields.io/badge/GitHub-xavier2code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20Neovim-57A143?style=flat-square" />
 </p>
-
----
-
-*Last updated: 2026-03-24*
