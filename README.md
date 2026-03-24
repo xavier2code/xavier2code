@@ -1,7 +1,3 @@
-# Hi, I'm Xavier — AI Agent Engineer | Wuhan
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&width=450&lines=Fear+is+temporary.+Regret+is+forever." alt="Typing SVG" />
 </p>
