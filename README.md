@@ -65,8 +65,8 @@
 
 ---
 
-<!-- WAKATIME_START -->
-<!-- WAKATIME_END -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 

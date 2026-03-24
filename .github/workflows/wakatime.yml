@@ -1,4 +1,4 @@
-name: Update WakaTime Stats
+name: Waka Readme
 
 on:
   schedule:
@@ -7,24 +7,16 @@ on:
 
 jobs:
   update-readme:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch WakaTime Stats
-        uses: anmol098/waka-readme-stats@main
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: "Update WakaTime stats"
-          SHOW_PROJECTS: true
-          SHOW_LANGUAGE: true
+          SHOW_TITLE: true
           SHOW_TIME: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-          SHOW_METADATA: true
-
-      - name: Commit and push changes
-        run: |
-          git add -A
-          git diff --exit-code || git commit -m "Update WakaTime stats"
-          git push
+          LANG_COUNT: 5
+          SHOW_LINES: false
+          COMMIT_MESSAGE: "Update WakaTime stats"
