@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Xavier
 
-### 💼 Full-Stack Developer | 🇨🇳 Shanghai
+### 💼 Full-Stack Developer | 🇨🇳 Wuhan
 
 ---
 
@@ -12,7 +12,7 @@
   <a href="https://github.com/xavier2code">
     <img src="https://img.shields.io/github/followers/xavier2code?style=social&logo=github&label=Follow" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Shanghai%2C%20CN-brightgreen?style=flat-square&logo=map&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Wuhan%2C%20CN-brightgreen?style=flat-square&logo=map&logoColor=white" />
   <img src="https://img.shields.io/badge/Timezone-UTC%2B8-blue?style=flat-square&logo=clock&logoColor=white" />
 </p>
 
@@ -79,7 +79,7 @@
 
 ```text
 🧑‍💻  Developer passionate about building clean, efficient solutions
-📍  Based in Shanghai, China (UTC+8)
+📍  Based in Wuhan, China (UTC+8)
 📚  Always learning something new
 🔥  "Fear is temporary. Regret is forever."
 ```
