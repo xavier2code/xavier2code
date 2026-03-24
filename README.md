@@ -58,15 +58,81 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2030%20mins-blue?style=flat)
 
-```txt
-From: 16 March 2026 - To: 23 March 2026
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-Other        4 hrs 46 mins         ██████████████▒░░░░░░░░░░   57.27 %
-Markdown     2 hrs 3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.60 %
-TypeScript   1 hr 20 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
-JSON         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Lua          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                26 commits          ████████████░░░░░░░░░░░░░   48.15 % 
+🌆 Daytime                27 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   27 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+Tuesday                  7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Wednesday                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Thursday                 7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Friday                   12 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    4 hrs 46 mins       ██████████████░░░░░░░░░░░   57.27 % 
+Markdown                 2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+TypeScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+
+🔥 Editors: 
+Claude Code              8 hrs 20 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+next-log-mind            4 hrs 30 mins       ██████████████░░░░░░░░░░░   54.00 % 
+healix                   3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.11 % 
+nvim                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+hz-cloud                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+
+💻 Operating System: 
+Mac                      8 hrs 20 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/03/2026 09:03:36 UTC
 <!--END_SECTION:waka-->
