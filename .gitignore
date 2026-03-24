@@ -1,0 +1,5 @@
+# Keep only README and AGENTS
+*
+!README.md
+!AGENTS.md
+!.gitignore
