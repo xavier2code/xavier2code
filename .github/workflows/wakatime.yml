@@ -1,0 +1,30 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch WakaTime Stats
+        uses: anmol098/waka-readme-stats@main
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: "Update WakaTime stats"
+          SHOW_PROJECTS: true
+          SHOW_LANGUAGE: true
+          SHOW_TIME: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_METADATA: true
+
+      - name: Commit and push changes
+        run: |
+          git add -A
+          git diff --exit-code || git commit -m "Update WakaTime stats"
+          git push
