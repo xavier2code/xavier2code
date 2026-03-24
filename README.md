@@ -18,18 +18,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xavier2code&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00D9FF&icon_color=58A6FF&text_color=c9d1d9" alt="xavier2code's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xavier2code&theme=github-dark&background=0d1117&border=30363d&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=58A6FF&currStreakNum=FF6B6B&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-</p>
-
----
-
 ## Tech Stack
 
 <h3 align="center">Languages</h3>
