@@ -7,39 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xavier2code">
-    <img src="https://img.shields.io/github/followers/xavier2code?style=social&logo=github&label=Follow" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Wuhan%2C%20CN-brightgreen?style=flat-square&logo=map&logoColor=white" />
-  <img src="https://img.shields.io/badge/Timezone-UTC%2B8-blue?style=flat-square&logo=clock&logoColor=white" />
-</p>
-
----
-
-## Tech Stack
-
-<h3 align="center">Languages</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-</p>
-
-<h3 align="center">AI & LLM</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-2E7D32?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Milvus-00D9FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek-FF6B6B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/GLM-5B7B9A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/MiniMax-00D9FF?style=for-the-badge&logoColor=white" />
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-7955F1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCode-00D9FF?style=for-the-badge&logoColor=white" />
