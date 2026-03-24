@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Xavier
+# Hi, I'm Xavier
 
-### 💼 Full-Stack Developer | 🇨🇳 Wuhan
+### Full-Stack Developer | Wuhan
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🔥 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xavier2code&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00D9FF&icon_color=58A6FF&text_color=c9d1d9" alt="xavier2code's GitHub stats" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xavier2code&theme=github-dark&bg_color=0d1117&color=00D9FF&line=58A6FF&point=FF6B6B&area=true&hide_border=false" alt="Activity Graph" />
