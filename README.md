@@ -5,7 +5,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -55,11 +55,11 @@ deer-flow                29 mins             █░░░░░░░░░░�
 Mac                      13 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-TypeScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TypeScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 SCSS                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Shell                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
@@ -71,5 +71,5 @@ Shell                    1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 05:50:40 UTC
+ Last Updated on 10/05/2026 06:14:20 UTC
 <!--END_SECTION:waka-->
