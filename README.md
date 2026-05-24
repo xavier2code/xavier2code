@@ -5,6 +5,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -67,5 +69,5 @@ TypeScript               1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 06:14:30 UTC
+ Last Updated on 24/05/2026 06:39:16 UTC
 <!--END_SECTION:waka-->
