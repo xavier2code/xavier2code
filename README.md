@@ -55,11 +55,11 @@ next-mind                2 hrs 53 mins       █████░░░░░░�
 Mac                      13 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   2 repos             █████████████████░░░░░░░░   66.67 % 
-TypeScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               2 repos             █████████████████░░░░░░░░   66.67 % 
+Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 
@@ -69,5 +69,5 @@ TypeScript               1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 06:39:16 UTC
+ Last Updated on 25/05/2026 07:17:13 UTC
 <!--END_SECTION:waka-->
