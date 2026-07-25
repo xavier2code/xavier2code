@@ -32,28 +32,28 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 42 mins      ████████████████░░░░░░░░░   62.58 % 
-Markdown                 4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-HTML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+TypeScript               15 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.31 % 
+Markdown                 5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+JavaScript               2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+JSON                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 6 mins       █████████████████░░░░░░░░   68.55 % 
-Claude Code              5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Qoder                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-OpenCode                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+VS Code                  20 hrs 17 mins      ████████████████░░░░░░░░░   62.79 % 
+Claude Code              8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+Qoder                    2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+OpenCode                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🐱‍💻 Projects: 
-riftbound                9 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.51 % 
-mobius                   6 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-pi-agent                 2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-00_palantir              2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-deer-flow                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+riftbound                9 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+mobius                   7 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+hz-educational-conversati4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+educhat                  3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+pi-agent                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 💻 Operating System: 
-Mac                      22 hrs 57 mins      ████████████████████████░   97.68 % 
-Windows                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Mac                      31 hrs 46 mins      █████████████████████████   98.31 % 
+Windows                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +71,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 05:52:11 UTC
+ Last Updated on 25/07/2026 05:44:32 UTC
 <!--END_SECTION:waka-->
