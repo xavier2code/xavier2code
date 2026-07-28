@@ -5,8 +5,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2046%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -34,28 +32,54 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               15 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.31 % 
-Markdown                 5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-JavaScript               2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-JSON                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TypeScript               11 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   34.07 % 
+Markdown                 6 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+JavaScript               3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Vue                      3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Diff                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 17 mins      ████████████████░░░░░░░░░   62.79 % 
-Claude Code              8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-Qoder                    2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-OpenCode                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Claude Code              18 hrs 33 mins      █████████████░░░░░░░░░░░░   53.61 % 
+VS Code                  12 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
+Qoder                    3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+OpenCode                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🐱‍💻 Projects: 
-riftbound                9 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-mobius                   7 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-hz-educational-conversati4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-educhat                  3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-pi-agent                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+educhat                  11 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   33.86 % 
+mobius                   7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+riftbound                4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+hz-educational-conversati4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+pi-agent                 2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 💻 Operating System: 
-Mac                      31 hrs 46 mins      █████████████████████████   98.31 % 
-Windows                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Mac                      34 hrs 3 mins       █████████████████████████   98.42 % 
+Windows                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 31 hrs 49 mins (91.97%)
+
+✍️ 113,743 lines written by AI, 2,760 lines written by hand (97.63% AI-written)
+
+🔤 941,482,939 Input Tokens, 2,875,002 Output Tokens
+
+💵 $2155.81 Estimated AI Cost This Week
+
+🧠 77 AI Sessions, 466 AI Prompts
+
+Qoder                    23,841 lines        ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Glm                      18,581 lines        █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Claude-Code              13,698 lines        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Sonnet                   12,320 lines        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+M                        5,554 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.63% of written lines came from AI
+📄 Detailed Prompter — average 703 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 3.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +97,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 06:32:58 UTC
+ Last Updated on 28/07/2026 05:48:03 UTC
 <!--END_SECTION:waka-->
