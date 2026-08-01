@@ -5,9 +5,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-798%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-424%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-429%20hrs%205%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,53 +36,54 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      7 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Markdown                 6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-JavaScript               5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Java                     4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Diff                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Vue                      7 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Java                     6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Markdown                 5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+JavaScript               3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+TypeScript               2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 43 mins      ████████████░░░░░░░░░░░░░   49.56 % 
-Claude Code              12 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   35.54 % 
-Qoder                    3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-OpenCode                 2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+VS Code                  18 hrs 6 mins       █████████████░░░░░░░░░░░░   51.29 % 
+Claude Code              13 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   37.80 % 
+OpenCode                 2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Qoder                    1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🐱‍💻 Projects: 
-hz-educational-conversati18 hrs 39 mins      █████████████░░░░░░░░░░░░   52.19 % 
-educhat                  12 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   35.81 % 
-mobius                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-data-resource            46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-crm                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+hz-educational-conversati18 hrs 58 mins      █████████████░░░░░░░░░░░░   53.76 % 
+educhat                  9 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+wiki                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+mobius                   1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+data-resource            46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Mac                      35 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 2 mins       ████████████████████████░   96.43 % 
+Windows                  1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 36 mins (93.95%)
+⏱ AI Coding Time: 33 hrs 55 mins (96.11%)
 
-✍️ 52,978 lines written by AI, 1,099 lines written by hand (97.97% AI-written)
+✍️ 39,666 lines written by AI, 167 lines written by hand (99.58% AI-written)
 
-🔤 841,007,951 Input Tokens, 2,899,259 Output Tokens
+🔤 731,682,312 Input Tokens, 2,428,509 Output Tokens
 
-💵 $2417.93 Estimated AI Cost This Week
+💵 $2010.03 Estimated AI Cost This Week
 
-🧠 142 AI Sessions, 271 AI Prompts
+🧠 139 AI Sessions, 210 AI Prompts
 
-Qoder                    16,521 lines        ████████░░░░░░░░░░░░░░░░░   32.07 % 
-Sonnet                   12,320 lines        ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-Claude-Code              8,747 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-M                        4,869 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Haiku                    4,477 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Qoder                    17,427 lines        ████████████░░░░░░░░░░░░░   46.17 % 
+Sonnet                   7,850 lines         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+M                        5,201 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Opus                     4,081 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+K                        2,173 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.97% of written lines came from AI
-📄 Detailed Prompter — average 1,063 characters per prompt
+🤖 AI-Driven — 99.58% of written lines came from AI
+📄 Detailed Prompter — average 815 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -100,5 +101,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 06:15:54 UTC
+ Last Updated on 01/08/2026 05:57:13 UTC
 <!--END_SECTION:waka-->
