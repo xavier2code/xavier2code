@@ -36,53 +36,52 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.11 % 
-Java                     5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Markdown                 3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Vue                      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+TypeScript               13 hrs 11 mins      █████████████░░░░░░░░░░░░   53.02 % 
+Java                     3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Markdown                 2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Vue                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 56 mins      ██████████████░░░░░░░░░░░   55.71 % 
-VS Code                  11 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   40.25 % 
-Qoder                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Claude Code              15 hrs 56 mins      ████████████████░░░░░░░░░   64.05 % 
+VS Code                  8 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
+Qoder                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🐱‍💻 Projects: 
-riftbound                9 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.86 % 
-tcg-riftbound            9 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
-hz-educational-conversati8 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-mobius                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+riftbound                9 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
+tcg-riftbound            9 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.67 % 
+hz-educational-conversati4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+mobius                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Mac                      24 hrs 52 mins      ██████████████████████░░░   86.97 % 
-Windows                  3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Mac                      24 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 27 mins (95.98%)
+⏱ AI Coding Time: 24 hrs 12 mins (97.3%)
 
-✍️ 17,609 lines written by AI, 1,166 lines written by hand (93.79% AI-written)
+✍️ 14,311 lines written by AI, 139 lines written by hand (99.04% AI-written)
 
-🔤 200,532,093 Input Tokens, 859,014 Output Tokens
+🔤 107,707,452 Input Tokens, 605,235 Output Tokens
 
-💵 $605.30 Estimated AI Cost This Week
+💵 $344.48 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 108 AI Prompts
+🧠 27 AI Sessions, 93 AI Prompts
 
-K                        9,722 lines         █████████████░░░░░░░░░░░░   50.62 % 
-Qoder                    5,633 lines         ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-Glm                      3,069 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-M                        783 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+K                        9,722 lines         ████████████████░░░░░░░░░   65.32 % 
+Glm                      3,069 lines         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Qoder                    2,082 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+M                        11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.79% of written lines came from AI
-📄 Detailed Prompter — average 737 characters per prompt
+🤖 AI-Driven — 99.04% of written lines came from AI
+📄 Detailed Prompter — average 616 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 11.34% of changed lines were hand-edited
+🚀 High AI Trust — 5.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -100,5 +99,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 04:12:28 UTC
+ Last Updated on 09/08/2026 04:19:40 UTC
 <!--END_SECTION:waka-->
