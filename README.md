@@ -36,51 +36,51 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-Markdown                 2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Vue                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Markdown                 2 hrs               ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+Java                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 42 mins       ████████████████░░░░░░░░░   62.46 % 
-Claude Code              3 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.83 % 
-Qoder                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Claude Code              3 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.62 % 
+VS Code                  3 hrs 27 mins       ████████████░░░░░░░░░░░░░   47.83 % 
+Qoder                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🐱‍💻 Projects: 
-hz-educational-conversati4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.91 % 
-%E4%BA%A7%E7%A0%94%E4%B8%1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-criminal-portrait-exhibit1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-fireworks-tech-graph     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-04_docx                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+%E4%BA%A7%E7%A0%94%E4%B8%1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+hz-educational-conversati1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+criminal-portrait-exhibit1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+fireworks-tech-graph     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+hz-jn-ai-platform        38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 💻 Operating System: 
-Mac                      9 hrs 46 mins       ███████████████████████░░   91.10 % 
-Windows                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Mac                      6 hrs 15 mins       ██████████████████████░░░   86.76 % 
+Windows                  57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 7 mins (75.66%)
+⏱ AI Coding Time: 5 hrs 28 mins (75.89%)
 
-✍️ 6,781 lines written by AI, 905 lines written by hand (88.23% AI-written)
+✍️ 6,366 lines written by AI, 772 lines written by hand (89.18% AI-written)
 
-🔤 6,531,564 Input Tokens, 566,130 Output Tokens
+🔤 4,727,077 Input Tokens, 462,979 Output Tokens
 
-💵 $169.08 Estimated AI Cost This Week
+💵 $134.90 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 85 AI Prompts
+🧠 26 AI Sessions, 64 AI Prompts
 
-Glm                      4,188 lines         ██████████████░░░░░░░░░░░   55.46 % 
-Qoder                    3,363 lines         ███████████░░░░░░░░░░░░░░   44.54 % 
+Glm                      4,189 lines         ███████████████░░░░░░░░░░   59.42 % 
+Qoder                    2,861 lines         ██████████░░░░░░░░░░░░░░░   40.58 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.23% of written lines came from AI
-📝 Concise Prompter — average 287 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 18.85% of changed lines were hand-edited
+🤖 AI-Driven — 89.18% of written lines came from AI
+📝 Concise Prompter — average 430 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 17.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -98,5 +98,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 03:46:09 UTC
+ Last Updated on 19/08/2026 03:48:39 UTC
 <!--END_SECTION:waka-->
