@@ -36,40 +36,39 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               51 mins             ████████████████████████░   94.72 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              54 mins             █████████████████████████   100.00 % 
+Claude Code              2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dsh-client-web-tetris    54 mins             █████████████████████████   100.00 % 
+475c96a8-5924-441e-bf48-41 min               ██████████████░░░░░░░░░░░   56.77 % 
+prebundled               1 min               ███████████░░░░░░░░░░░░░░   43.23 % 
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (100.0%)
+⏱ AI Coding Time: 2 mins (100.0%)
 
-✍️ 76 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 120,472 Input Tokens, 21,856 Output Tokens
+🔤 4,305 Input Tokens, 359 Output Tokens
 
-💵 $10.75 Estimated AI Cost This Week
+💵 $0.12 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 4 AI Sessions, 5 AI Prompts
 
-K                        77 lines            █████████████████████████   100.00 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 19 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 24,074 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -87,5 +86,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 13:54:53 UTC
+ Last Updated on 28/08/2026 15:02:54 UTC
 <!--END_SECTION:waka-->
