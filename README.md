@@ -36,39 +36,46 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Python                   3 hrs 40 mins       ███████████████░░░░░░░░░░   60.34 % 
+Vue                      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Nginx configuration file 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Git Config               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🔥 Editors: 
-Claude Code              2 mins              █████████████████████████   100.00 % 
+Claude Code              6 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-475c96a8-5924-441e-bf48-41 min               ██████████████░░░░░░░░░░░   56.77 % 
-prebundled               1 min               ███████████░░░░░░░░░░░░░░   43.23 % 
+archive-qa-hub           6 hrs 3 mins        █████████████████████████   99.31 % 
+475c96a8-5924-441e-bf48-41 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+prebundled               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 5 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 1,409 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,305 Input Tokens, 359 Output Tokens
+🔤 364,439 Input Tokens, 146,227 Output Tokens
 
-💵 $0.12 Estimated AI Cost This Week
+💵 $263.75 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 5 AI Prompts
+🧠 5 AI Sessions, 32 AI Prompts
 
-K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+K                        1,405 lines         █████████████████████████   99.43 % 
+Glm                      8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 24,074 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,827 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -86,5 +93,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 08:24:47 UTC
+ Last Updated on 02/09/2026 07:43:49 UTC
 <!--END_SECTION:waka-->
