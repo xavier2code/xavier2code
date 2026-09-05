@@ -5,9 +5,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-857%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-482%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-484%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,46 +36,46 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 49 mins       ████████████░░░░░░░░░░░░░   46.50 % 
-Other                    1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Vue                      1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Java                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Python                   6 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.35 % 
+Vue                      3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Other                    1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Java                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 22 mins      █████████████████████████   100.00 % 
+Claude Code              14 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-archive-qa-hub           8 hrs 41 mins       █████████████████████░░░░   83.76 % 
-hz-educational-conversati50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-criminal-portrait-exhibit50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+archive-qa-hub           13 hrs 16 mins      ██████████████████████░░░   88.75 % 
+hz-educational-conversati50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+criminal-portrait-exhibit50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 💻 Operating System: 
-Mac                      10 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 22 mins (100.0%)
+⏱ AI Coding Time: 14 hrs 57 mins (100.0%)
 
-✍️ 1,904 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,861 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,792,115 Input Tokens, 232,972 Output Tokens
+🔤 6,626,347 Input Tokens, 343,579 Output Tokens
 
-💵 $449.61 Estimated AI Cost This Week
+💵 $718.50 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 63 AI Prompts
+🧠 12 AI Sessions, 97 AI Prompts
 
-K                        1,764 lines         ███████████████████████░░   92.36 % 
-Glm                      146 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+K                        2,343 lines         ████████████████████░░░░░   80.82 % 
+Glm                      556 lines           █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 488 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📄 Detailed Prompter — average 635 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -94,5 +94,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 07:48:21 UTC
+ Last Updated on 05/09/2026 07:29:49 UTC
 <!--END_SECTION:waka-->
