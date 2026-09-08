@@ -36,45 +36,47 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.35 % 
-Vue                      3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Other                    1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Java                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Python                   8 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.75 % 
+Vue                      3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Other                    2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Git Config               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 57 mins      █████████████████████████   100.00 % 
+Claude Code              18 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-archive-qa-hub           13 hrs 16 mins      ██████████████████████░░░   88.75 % 
-hz-educational-conversati50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-criminal-portrait-exhibit50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+archive-qa-hub           13 hrs 44 mins      ███████████████████░░░░░░   75.48 % 
+AI-Android-JiaoYuTanhua-Y2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+hz-educational-conversati50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+criminal-portrait-exhibit50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      14 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 57 mins (100.0%)
+⏱ AI Coding Time: 18 hrs 11 mins (100.0%)
 
-✍️ 2,861 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,470 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,626,347 Input Tokens, 343,579 Output Tokens
+🔤 7,345,589 Input Tokens, 421,271 Output Tokens
 
-💵 $718.50 Estimated AI Cost This Week
+💵 $767.02 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 97 AI Prompts
+🧠 15 AI Sessions, 116 AI Prompts
 
-K                        2,343 lines         ████████████████████░░░░░   80.82 % 
-Glm                      556 lines           █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+K                        2,949 lines         █████████████████████░░░░   84.06 % 
+Glm                      559 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 635 characters per prompt
+📄 Detailed Prompter — average 632 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -94,5 +96,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 08:02:21 UTC
+ Last Updated on 08/09/2026 07:54:15 UTC
 <!--END_SECTION:waka-->
