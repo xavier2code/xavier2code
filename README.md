@@ -5,9 +5,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-496%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-503%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,47 +36,47 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.54 % 
-Vue                      3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Other                    3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Markdown                 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Java                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Python                   6 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.53 % 
+Vue                      4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Markdown                 3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Other                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Java                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 4 mins       █████████████████████████   100.00 % 
+Claude Code              21 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-archive-qa-hub           7 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.60 % 
-AI-Android-JiaoYuTanhua-Y4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-criminal-portrait-exhibit3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-hz-educational-conversati2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-smart-pdf-cutter         2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+archive-qa-hub           6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+AI-Android-JiaoYuTanhua-Y4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+smart-pdf-cutter         4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+criminal-portrait-exhibit3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+hz-educational-conversati2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 
 💻 Operating System: 
-Mac                      20 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 4 mins (100.0%)
+⏱ AI Coding Time: 21 hrs 47 mins (100.0%)
 
-✍️ 5,895 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,738 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,103,992 Input Tokens, 588,538 Output Tokens
+🔤 9,809,944 Input Tokens, 679,301 Output Tokens
 
-💵 $696.08 Estimated AI Cost This Week
+💵 $781.28 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 127 AI Prompts
+🧠 28 AI Sessions, 140 AI Prompts
 
-K                        2,993 lines         ████████████░░░░░░░░░░░░░   50.00 % 
-Glm                      2,772 lines         ████████████░░░░░░░░░░░░░   46.31 % 
-M                        221 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Glm                      3,700 lines         ██████████████░░░░░░░░░░░   54.05 % 
+K                        2,865 lines         ██████████░░░░░░░░░░░░░░░   41.86 % 
+M                        280 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 844 characters per prompt
+📄 Detailed Prompter — average 614 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -96,5 +96,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 07:56:55 UTC
+ Last Updated on 11/09/2026 07:52:42 UTC
 <!--END_SECTION:waka-->
