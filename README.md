@@ -36,48 +36,48 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Other                    2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Markdown                 2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Vue                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Python                   1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Python                   7 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Markdown                 4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+TypeScript               3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Other                    2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Vue                      2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 41 mins      █████████████████████████   100.00 % 
+Claude Code              26 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobius-harness           7 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.23 % 
-data-cockpit             3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-smart-pdf-cutter         2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-archive-qa-hub           2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-hz-educational-conversati1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+mobius                   8 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
+mobius-harness           7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+data-cockpit             3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+smart-pdf-cutter         2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+archive-qa-hub           2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 
 💻 Operating System: 
-Mac                      17 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 26 hrs 12 mins (100.0%)
 
-✍️ 5,635 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,208 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,677,165 Input Tokens, 543,993 Output Tokens
+🔤 8,642,500 Input Tokens, 773,755 Output Tokens
 
-💵 $479.96 Estimated AI Cost This Week
+💵 $863.57 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 101 AI Prompts
+🧠 29 AI Sessions, 115 AI Prompts
 
-K                        3,494 lines         ███████████████░░░░░░░░░░   61.63 % 
-M                        1,081 lines         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Glm                      1,032 lines         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Deepseek                 62 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+K                        3,495 lines         ████████████░░░░░░░░░░░░░   48.09 % 
+Glm                      2,520 lines         █████████░░░░░░░░░░░░░░░░   34.67 % 
+M                        1,081 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Opencode-Cli             86 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Deepseek                 86 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 810 characters per prompt
+📄 Detailed Prompter — average 733 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -97,5 +97,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 08:22:48 UTC
+ Last Updated on 21/09/2026 08:41:18 UTC
 <!--END_SECTION:waka-->
