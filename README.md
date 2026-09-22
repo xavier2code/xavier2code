@@ -5,9 +5,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-895%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-526%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-535%20hrs%2027%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,49 +36,48 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
-Markdown                 4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-TypeScript               3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Other                    2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Vue                      2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Python                   6 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
+Markdown                 3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+TypeScript               3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Other                    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Docker                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 12 mins      █████████████████████████   100.00 % 
+Claude Code              21 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobius                   8 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
-mobius-harness           7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-data-cockpit             3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-smart-pdf-cutter         2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-archive-qa-hub           2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+mobius                   8 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
+mobius-harness           7 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
+archive-qa-hub           2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+smart-pdf-cutter         1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+data-cockpit             1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 💻 Operating System: 
-Mac                      26 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 12 mins (100.0%)
+⏱ AI Coding Time: 21 hrs 45 mins (100.0%)
 
-✍️ 7,208 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,477 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,642,500 Input Tokens, 773,755 Output Tokens
+🔤 7,015,633 Input Tokens, 598,444 Output Tokens
 
-💵 $863.57 Estimated AI Cost This Week
+💵 $707.26 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 115 AI Prompts
+🧠 18 AI Sessions, 82 AI Prompts
 
-K                        3,495 lines         ████████████░░░░░░░░░░░░░   48.09 % 
-Glm                      2,520 lines         █████████░░░░░░░░░░░░░░░░   34.67 % 
-M                        1,081 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Opencode-Cli             86 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Deepseek                 86 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+K                        3,237 lines         ███████████████░░░░░░░░░░   58.50 % 
+Glm                      2,126 lines         ██████████░░░░░░░░░░░░░░░   38.42 % 
+Opencode-Cli             86 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Deepseek                 84 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 733 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 526 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -97,5 +96,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 08:41:18 UTC
+ Last Updated on 22/09/2026 08:20:32 UTC
 <!--END_SECTION:waka-->
