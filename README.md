@@ -36,48 +36,49 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Markdown                 3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-TypeScript               3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Other                    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Docker                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Python                   6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
+Markdown                 4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+TypeScript               3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 45 mins      █████████████████████████   100.00 % 
+Claude Code              20 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobius                   8 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
-mobius-harness           7 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
-archive-qa-hub           2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-smart-pdf-cutter         1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-data-cockpit             1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+mobius                   9 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.46 % 
+mobius-harness           7 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.75 % 
+smart-pdf-cutter         1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+data-cockpit             47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+archive-qa-hub           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 💻 Operating System: 
-Mac                      21 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 45 mins (100.0%)
+⏱ AI Coding Time: 20 hrs 17 mins (100.0%)
 
-✍️ 5,477 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,307 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,015,633 Input Tokens, 598,444 Output Tokens
+🔤 5,885,253 Input Tokens, 582,833 Output Tokens
 
-💵 $707.26 Estimated AI Cost This Week
+💵 $688.56 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 82 AI Prompts
+🧠 19 AI Sessions, 76 AI Prompts
 
-K                        3,237 lines         ███████████████░░░░░░░░░░   58.50 % 
-Glm                      2,126 lines         ██████████░░░░░░░░░░░░░░░   38.42 % 
-Opencode-Cli             86 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Deepseek                 84 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+K                        3,237 lines         ███████████████░░░░░░░░░░   60.20 % 
+Glm                      1,941 lines         █████████░░░░░░░░░░░░░░░░   36.10 % 
+Opencode-Cli             175 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Deepseek                 24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 526 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 507 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -96,5 +97,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 08:20:32 UTC
+ Last Updated on 23/09/2026 08:22:25 UTC
 <!--END_SECTION:waka-->
