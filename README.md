@@ -36,49 +36,49 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.20 % 
-Markdown                 4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-TypeScript               4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Python                   6 hrs 14 mins       ██████████████░░░░░░░░░░░   56.47 % 
+Markdown                 2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 17 mins      █████████████████████████   100.00 % 
+Claude Code              11 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobius                   9 hrs 37 mins       █████████████░░░░░░░░░░░░   52.62 % 
-mobius-harness           7 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.99 % 
-criminal-portrait-exhibit38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-AI-Android-JiaoYuTanhua-Y14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-nvm                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+mobius                   9 hrs 37 mins       ██████████████████████░░░   87.11 % 
+criminal-portrait-exhibit38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+nvm                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+archive-qa-hub           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+AI-Android-JiaoYuTanhua-Y10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Mac                      18 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 17 mins (100.0%)
+⏱ AI Coding Time: 11 hrs 3 mins (100.0%)
 
-✍️ 5,257 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,821 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,449,356 Input Tokens, 512,721 Output Tokens
+🔤 4,244,335 Input Tokens, 322,370 Output Tokens
 
-💵 $666.69 Estimated AI Cost This Week
+💵 $444.02 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 58 AI Prompts
+🧠 17 AI Sessions, 41 AI Prompts
 
-K                        3,288 lines         ███████████████░░░░░░░░░░   61.84 % 
-Glm                      1,830 lines         █████████░░░░░░░░░░░░░░░░   34.42 % 
-Opencode-Cli             175 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Deepseek                 24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Glm                      1,664 lines         ██████████████████████░░░   89.27 % 
+Opencode-Cli             175 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Deepseek                 24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+K                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 414 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 206 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -98,5 +98,5 @@ Python                   1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 08:37:09 UTC
+ Last Updated on 26/09/2026 08:24:11 UTC
 <!--END_SECTION:waka-->
