@@ -12,19 +12,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1232 commits        ███████████░░░░░░░░░░░░░░   44.69 % 
-🌆 Daytime                1254 commits        ███████████░░░░░░░░░░░░░░   45.48 % 
-🌃 Evening                271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌞 Morning                1241 commits        ███████████░░░░░░░░░░░░░░   44.77 % 
+🌆 Daytime                1260 commits        ███████████░░░░░░░░░░░░░░   45.45 % 
+🌃 Evening                271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   189 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Tuesday                  367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Wednesday                1604 commits        ███████████████░░░░░░░░░░   58.18 % 
-Thursday                 495 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Friday                   102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Monday                   204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Tuesday                  367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Wednesday                1604 commits        ██████████████░░░░░░░░░░░   57.86 % 
+Thursday                 495 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Friday                   102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -36,48 +36,46 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 14 mins       ██████████████░░░░░░░░░░░   56.47 % 
-Markdown                 2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Markdown                 45 mins             ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+Other                    35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Python                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+TypeScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Java                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 3 mins       █████████████████████████   100.00 % 
+Claude Code              2 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobius                   9 hrs 37 mins       ██████████████████████░░░   87.11 % 
-criminal-portrait-exhibit38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-nvm                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-archive-qa-hub           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-AI-Android-JiaoYuTanhua-Y10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+mobius                   1 hr 15 mins        ████████████░░░░░░░░░░░░░   49.27 % 
+criminal-portrait-exhibit38 mins             ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+nvm                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+archive-qa-hub           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+AI-Android-JiaoYuTanhua-Y10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 💻 Operating System: 
-Mac                      11 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 3 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 32 mins (100.0%)
 
-✍️ 1,821 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 248 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,244,335 Input Tokens, 322,370 Output Tokens
+🔤 1,279,000 Input Tokens, 90,386 Output Tokens
 
-💵 $444.02 Estimated AI Cost This Week
+💵 $58.22 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 41 AI Prompts
+🧠 15 AI Sessions, 27 AI Prompts
 
-Glm                      1,664 lines         ██████████████████████░░░   89.27 % 
-Opencode-Cli             175 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Deepseek                 24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-K                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Glm                      176 lines           █████████████████░░░░░░░░   66.42 % 
+Opencode-Cli             89 lines            ████████░░░░░░░░░░░░░░░░░   33.58 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 206 characters per prompt
+📝 Concise Prompter — average 222 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -98,5 +96,5 @@ Python                   1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 09:01:45 UTC
+ Last Updated on 28/09/2026 09:29:23 UTC
 <!--END_SECTION:waka-->
