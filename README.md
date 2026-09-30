@@ -36,47 +36,47 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 45 mins             ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-Other                    35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Python                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-TypeScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Java                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Other                    18 mins             █████████████░░░░░░░░░░░░   51.73 % 
+TypeScript               6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 32 mins       █████████████████████████   100.00 % 
+Claude Code              36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobius                   1 hr 15 mins        ████████████░░░░░░░░░░░░░   49.27 % 
-criminal-portrait-exhibit38 mins             ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-nvm                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-archive-qa-hub           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-AI-Android-JiaoYuTanhua-Y10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+nvm                      11 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
+archive-qa-hub           11 mins             ████████░░░░░░░░░░░░░░░░░   30.82 % 
+criminal-portrait-exhibit9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+hz-educational-conversati4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+smart-pdf-cutter         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 32 mins (100.0%)
+⏱ AI Coding Time: 36 mins (100.0%)
 
-✍️ 248 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 146 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,279,000 Input Tokens, 90,386 Output Tokens
+🔤 453,728 Input Tokens, 22,340 Output Tokens
 
-💵 $58.22 Estimated AI Cost This Week
+💵 $15.66 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 27 AI Prompts
+🧠 9 AI Sessions, 10 AI Prompts
 
-Glm                      176 lines           █████████████████░░░░░░░░   66.42 % 
-Opencode-Cli             89 lines            ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Glm                      146 lines           █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 222 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 30 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -96,5 +96,5 @@ Python                   1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 09:34:30 UTC
+ Last Updated on 30/09/2026 09:26:10 UTC
 <!--END_SECTION:waka-->
