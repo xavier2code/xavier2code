@@ -36,48 +36,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 mins             █████████████░░░░░░░░░░░░   51.73 % 
-TypeScript               6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nvm                      11 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
-archive-qa-hub           11 mins             ████████░░░░░░░░░░░░░░░░░   30.82 % 
-criminal-portrait-exhibit9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-hz-educational-conversati4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-smart-pdf-cutter         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (100.0%)
-
-✍️ 146 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 453,728 Input Tokens, 22,340 Output Tokens
-
-💵 $15.66 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 10 AI Prompts
-
-Glm                      146 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 30 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Shell** 
@@ -96,5 +70,5 @@ Python                   1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xavier2code/xavier2code/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 09:26:10 UTC
+ Last Updated on 01/10/2026 09:52:27 UTC
 <!--END_SECTION:waka-->
